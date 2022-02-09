@@ -1,0 +1,14 @@
+mkdir
+touch text.txt
+ls  see all files
+ls -a   ----> see all  hidden files
+
+// git commends
+git init
+git status
+
+git add chapter1.txt 
+git add .   ---> add allfiles of curnt directly
+ git commint -m "This file is chages at h1 header"
+
+git log -----> show what commit is made 
