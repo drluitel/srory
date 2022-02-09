@@ -12,3 +12,24 @@ git add .   ---> add allfiles of curnt directly
  git commint -m "This file is chages at h1 header"
 
 git log -----> show what commit is made 
+
+git diff chapter3.txt ---> to see what is differ change is made by mistake 
+
+git checkout chapter3.txt 
+
+
+// Created the repositories
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/drluitel/srory.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/drluitel/srory.git
+git branch -M main
+git push -u origin main
+
+//https://github.com/drluitel/srory.git
